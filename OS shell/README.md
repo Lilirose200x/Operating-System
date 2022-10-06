@@ -1,1 +1,1 @@
-I used the starter code provided by the the OS team
+The starter code is provided by the the OS team
